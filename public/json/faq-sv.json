@@ -1,0 +1,28 @@
+{
+  "faqs": [
+    {
+      "question": "Vilka programmeringsspråk använder oss av?",
+      "answer": "Vissa av oss jobbar med fokus på frontendutveckling (HTML/CSS, JavaScript, React, Scss), andra med backendutveckling (Node.js) och vissa av oss gör lite både och."
+    },
+    {
+      "question": "Vad är den beräknade tiden behöver man att vänta för att få sin webbplats färdigt?",
+      "answer": "Vårt team består av flera experter inom programmering och webbdesign. När vi tar emot beställningen från klienten, arbetar vi hårt för att leverera webbplatsen på bästa och professionella sätt som möjligt, och därför beror den beräknade tiden för att leverera webbplatsen till klienten på antal funktionalitet som kommer att läggas till in i webbplatsen"
+    },
+    {
+      "question": "Hur man betalar för Tamam?",
+      "answer": "Vi accepterar följande kort: Visa, MasterCard och vi accepterar också PayPal."
+    },
+    {
+      "question": "Hur kan man nå oss?",
+      "answer": "Vår kundtjänstpersonal finns tillgänglig måndag till fredag från 8 till 18 på telefon, använda vårt kontaktformulär. Du kan nå oss utanför öppettiderna med vårt kontaktformulär."
+    },
+    {
+      "question": "Jobba hos oss?",
+      "answer": "Just nu söker vi Backend-utvecklare till vårt team. Vi söker dig som: Har koll på integrationer mellan olika system - Arbetar effektivt med shellscript och annat i terminalen - God förståelse och intresse av frontend-backend-API-kommunikation och autentisering. Är du intresserad? Varmt välkommen att maila din ansökan till tamam@agile.se"
+    },
+    {
+      "question": "(COVID-19) uppdateringar?",
+      "answer": "Vi gör veckovis koll om vi har blivit infekterade eller inte"
+    }
+  ]
+}

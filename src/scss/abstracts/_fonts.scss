@@ -1,0 +1,60 @@
+// @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap");
+// @import url("https://fonts.googleapis.com/css2?family=Passion+One&display=swap");
+
+// Fonts:
+$openSans: "Open Sans", sans-serif;
+$roboto: "Roboto", sans-serif;
+$passion: "Passion One", cursive;
+
+// Font-sizes:
+$header-1: 3rem;
+$header-2: 2.5rem;
+$header-3: 2rem;
+$header-4: 1.44rem;
+$p: 1.2rem;
+
+// Colour code:
+$primary-color: hsl(320, 7%, 92%);
+$bg-header-footer: hsl(192, 60%, 55%);
+$font: hsl(0, 0%, 15%);
+$CTA: hsl(34, 100%, 50%);
+
+body {
+  main {
+    min-height: 100vh;
+  }
+  font-family: $roboto;
+  color: $primary-color;
+  .center {
+    text-align: center;
+  }
+
+  .right {
+    text-align: right;
+  }
+
+  .left {
+    text-align: left;
+  }
+}
+
+h1 {
+  font-size: $header-1;
+}
+
+h2 {
+  font-size: $header-2;
+}
+
+h3 {
+  font-size: $header-3;
+}
+
+h4 {
+  font-size: $header-4;
+}
+
+p {
+  font-size: $p;
+}

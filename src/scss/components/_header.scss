@@ -1,0 +1,49 @@
+@use "../abstracts/" as *;
+
+header {
+  height: 5rem;
+  position: fixed;
+  width: 100%;
+  .logo {
+    height: 3.9rem;
+  }
+  @include grid33(true);
+  justify-items: center;
+  align-items: center;
+  background-color: $bg-header-footer;
+
+  .nav-list {
+    @include flex-rows-center;
+    li:first-child,
+    li:last-child {
+      padding: 0 0;
+    }
+    li {
+      a {
+        font-weight: 900;
+        color: $font;
+        font-size: $header-3;
+        text-decoration: none;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+      padding: 0 1rem;
+    }
+  }
+
+  .flags {
+    @include flex-rows-center;
+    button {
+      cursor: pointer;
+      background: none;
+      border: none;
+    }
+    img {
+      height: 3rem;
+      &:first-child {
+        padding: 0 1rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "faqs": [
+    {
+      "question": "What programming languages ​​do we use?",
+      "answer": "Some of us work with a focus on frontend development (HTML / CSS, JavaScript, React, Scss), others with backend development (Node.js) and some of us do a bit of both."
+    },
+    {
+      "question": "What is the estimated time you need to wait to get your website ready?",
+      "answer": "Our team consists of several experts in programming and web design. When we receive the order from the client, we work hard to deliver the website in the best and most professional way possible, and therefore the estimated time to deliver the website to the client depends on the number of functionality that will be added to the website."
+    },
+    {
+      "question": "How to pay for Tamam?",
+      "answer": "We accept the following cards: Visa, MasterCard and we also accept PayPal."
+    },
+    {
+      "question": "How to reach us?",
+      "answer": "Our customer service staff is available Monday to Friday from 8 to 18 by phone, use our contact form. You can reach us outside opening hours with our contact form."
+    },
+    {
+      "question": "Work with us?",
+      "answer": "We are currently looking for Backend developers for our team. We are looking for you as: Keep track of integrations between different systems - Works effectively with shellscript and other things in the terminal - Good understanding and interest in front-end-back-end API communication and authentication. Are you interested? You are very welcome to email your application to tamam@agile.se"
+    },
+    {
+      "question": "(COVID-19) updates?",
+      "answer": "We check weekly if we have become infected or not"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+@use "../abstracts/" as *;
+
+.about {
+  min-height: 100vh;
+  padding: 2rem 0;
+  .title {
+    margin-bottom: 2rem;
+  }
+  .catchphrase {
+    margin: 2rem 0;
+  }
+
+  .selling-words {
+    margin-bottom: 2rem;
+  }
+
+  .staff-container {
+    padding: 0 15rem;
+    @include grid33(true);
+    .content {
+      & > * {
+        color: $font;
+        text-decoration: none;
+        padding: 0.5rem;
+        transition: all 300ms ease;
+      }
+      a:hover,
+      a:focus {
+        text-decoration: underline;
+      }
+      box-shadow: 0px 0px 3px 3px grey;
+      background-color: $primary-color;
+      color: $font;
+      @include flex-columns-center;
+      align-items: center;
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "staff": [
+    {
+      "name": "Tommy Danielsson",
+      "email": "tommy@tamam.se",
+      "occupation": "Fullstack",
+      "img": "alien.png"
+    },
+    {
+      "name": "Tim Varvikko",
+      "email": "tim@tamam.se",
+      "occupation": "Frontend & Designer",
+      "img": "alien-2.png"
+    },
+    {
+      "name": "Tara Hassani",
+      "email": "tara@tamam.se",
+      "occupation": "Frontend",
+      "img": "female.png"
+    },
+    {
+      "name": "Samir Aboutaka",
+      "email": "samir@tamam.se",
+      "occupation": "Frontend",
+      "img": "male-2.png"
+    },
+    {
+      "name": "Namir Wesaf",
+      "email": "namir@tamam.se",
+      "occupation": "Frontend",
+      "img": "male-2.png"
+    },
+    {
+      "name": "Muhannad Abbasi​​​​​​​",
+      "email": "muhannad@tamam.se",
+      "occupation": "Frontend",
+      "img": "male-2.png"
+    },
+    {
+      "name": "Robot AI",
+      "email": "r.a@tamam.se",
+      "occupation": "Backend",
+      "img": "male.png"
+    },
+    {
+      "name": "Robot IA",
+      "email": "r.i@tamam.se",
+      "occupation": "Customer service",
+      "img": "male.png"
+    },
+    {
+      "name": "Mr.Smith",
+      "email": "mr.s@tamam.se",
+      "occupation": "CEO",
+      "img": "male.png"
+    }
+  ]
+}
